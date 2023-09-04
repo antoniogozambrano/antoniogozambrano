@@ -35,5 +35,6 @@ Proyectos Full-Stack que necesiten soporte de datos.
 Correo Electrónico: [antoniogomeziq@gmail.com](mailto:antoniogomeziq@gmail.com)
 
 ## ✨ Mi ultima formación en data science
-[![Insignia Credly](C:\Users\amilc\Downloads\applied-data-science-lab.2 (1).png)](https://www.credly.com/badges/b9571acb-3f75-4038-a060-5b756a52ed77/public_url)
+[![Mi insignia](https://www.credly.com/badges/b9571acb-3f75-4038-a060-5b756a52ed77/public_url)](https://www.credly.com/badges/b9571acb-3f75-4038-a060-5b756a52ed77/public_url)
+
 
