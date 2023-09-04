@@ -35,6 +35,7 @@ Proyectos Full-Stack que necesiten soporte de datos.
 Correo Electrónico: [antoniogomeziq@gmail.com](mailto:antoniogomeziq@gmail.com)
 
 ## ✨ Mi ultima formación en data science
-[![Mi insignia](https://www.credly.com/badges/b9571acb-3f75-4038-a060-5b756a52ed77/public_url)](https://www.credly.com/badges/b9571acb-3f75-4038-a060-5b756a52ed77/public_url)
+<a href="https://www.credly.com/badges/b9571acb-3f75-4038-a060-5b756a52ed77/public_url" target="_blank">World Quant University</a>
+
 
 
