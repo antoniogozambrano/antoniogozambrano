@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mi GitHub</title>
+</head>
+<body>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -34,9 +36,14 @@
             text-decoration: none;
             color: #d62828;
         }
+        .skills {
+            display: flex;
+            align-items: center;
+        }
+        .skills img {
+            margin-right: 10px; /* Aumenta el margen derecho entre los logos */
+        }
     </style>
-</head>
-<body>
     <div class="container">
         <h1>¡Bienvenidos a mi GitHub!</h1>
         <p>Mi nombre es Antonio, soy un Ingeniero Químico a quien le encantan los datos y las decisiones basadas en ellos.</p>
@@ -64,10 +71,16 @@
             <p>Mis viajes</p>
         </div>
         <div class="info">
+            <strong>✨ Skills:</strong>
+            <div class="skills">
+                <p><img src="python-logo.png" alt="Python Logo" width="30" height="30"> Python</p>
+                <p><img src="sql-logo.png" alt="SQL Logo" width="30" height="30"> SQL</p>
+            </div>
+        </div>
+        <div class="info">
             <strong>✨ Cómo contactarme:</strong>
             <p>Correo Electrónico: <a href="mailto:antoniogomeziq@gmail.com">antoniogomeziq@gmail.com</a></p>
         </div>
     </div>
 </body>
 </html>
-
